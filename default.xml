@@ -4,6 +4,6 @@
   <remote  name="repo_test2"       fetch="https://github.com/sherrylishanshan1/repo_test2.git"/>
   <default revision="master"
            remote="repo_test"/>
-  <project path="test/test1" name="repo_test"  revision="master"/>
-   <project path="test/test2" name="repo_test2" revision="master"/>
+  <project path="test1" name="repo_test"  revision="master"/>
+   <project path="test2" name="repo_test2" revision="master"/>
 </manifest>
